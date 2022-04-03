@@ -16,32 +16,48 @@ h1 {
 
 #add{
   float: left;
+  height: 300px;
+  width: 200px;
+  background-color: rgb(143, 55, 194);
+  border-style: double; border-color: blanchedalmond;
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #subtract {
   float: left;
+  height: 300px;
+  width: 200px;
+  background-color: rgb(143, 55, 194);
+  border-style: double; border-color: blanchedalmond;
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #multiply {
   float: right;
+  height: 300px;
+  width: 200px;
+  background-color: rgb(143, 55, 194);
+  border-style: double; border-color: blanchedalmond;
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #divide {
   float: right;
+  height: 300px;
+  width: 200px;
+  background-color: rgb(143, 55, 194);
+  border-style: double; border-color: blanchedalmond;
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
